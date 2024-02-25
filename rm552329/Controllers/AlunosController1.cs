@@ -2,7 +2,7 @@
 
 namespace rm552329.Controllers
 {
-    public class AlunosController1 : Controller
+    public class AlunosController : Controller
     {
         public IActionResult Index()
         {

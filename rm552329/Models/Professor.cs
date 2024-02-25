@@ -1,8 +1,8 @@
 ﻿namespace rm552329.Models
 {
-    public class Professor1 : Usuario1
+    public class Professor : Usuario
     {
         public int Id { get; set; }
-        public String CPF { get; set; }
+        public string CPF { get; set; }
     }
 }

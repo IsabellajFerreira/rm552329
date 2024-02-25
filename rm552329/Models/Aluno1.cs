@@ -1,6 +1,6 @@
 ﻿namespace rm552329.Models
 {
-    public class Aluno1 : Usuario1
+    public class Aluno : Usuario
     {
         public int Id { get; set; }
     }
